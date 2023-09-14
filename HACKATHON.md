@@ -4,7 +4,7 @@
 
 Chaque équipe devra réaliser un POC d'un projet digital.
 
-Chaque équipe devra réaliser une démonstration de son produit lors de la présentation qui aura lieu le **7 octobre 2022**.
+Chaque équipe devra réaliser une démonstration de son produit lors de la présentation qui aura lieu le **6 octobre 2023**.
 
 Cette présentation durera 20 minutes max par groupe et sera divisée en plusieurs parties:
 
@@ -16,20 +16,14 @@ Le projet doit aboutir à la conception d'un **prototype fonctionnel**, c'est à
 
 ## Format du produit
 
-Le produit **doit être obligatoirement un produit digital** (et non un service). Voici les formats suggérés:
-
-- Site web
-- Marketplace
-- App web / mobile
-- Autre: chatbot, crypto-monnaie, gaming, réseaux sociaux...
+Le produit **doit être obligatoirement un produit digital** (et non un service).
 
 ## Les thèmes
 
-Chaque projet doit correspondre au moins à un des thèmes suivants:
+Chaque projet doit être un **projet collaboratif à impact sociétal**.
 
-- Collaboration
-- Environnement
-- Sport
+- **Collaboratif** car les utilsiateurs doivent créer entièrement ou de la valeur. 
+- **Impact sociétal** car il aide la société en général. Exemple: transport, sécurité, vie quotidienne, santé, écologie, éducation, urbanisme, politique...
 
 ## Présentation
 
@@ -46,6 +40,6 @@ Le travail de chaque groupe sera **noté pour la note de groupe** du cours
 
 Voici le barème de notation (sur 20 points):
 
-- **12** Réponse au besoin et pertinence de la solution
+- **10** Réponse au besoin et pertinence de la solution
 - **6** Exécution
-- **2** UX
+- **4** UX
