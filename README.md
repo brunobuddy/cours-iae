@@ -3,7 +3,7 @@
 ## Coding
 
 - Live code: [Code Sandbox](https://codesandbox.io/)
-- Code editor: [VS Code](https://code.visualstudio.com/) | [Atom](https://atom.io/)
+- Code editor: [VS Code](https://code.visualstudio.com/)
 
 ## Stack
 
@@ -50,7 +50,6 @@
 - [IFTT (Automation)](https://ifttt.com/)
 - [Zapier (Automation)](https://zapier.com/)
 - [MetaMask (cryptowallet)](https://metamask.io/)
-- [Revue (newsletter)](https://www.getrevue.co/)
 - [French public data base](https://www.etalab.gouv.fr/)
 
 ## Contact
