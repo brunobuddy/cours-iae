@@ -6,6 +6,15 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 ```
 
+Script
+```html
+<script>
+ $(".button").on("click", function () {
+    alert("bouton clické");
+  });
+</script
+```
+
 ## Coding
 
 - Live code: [Code Sandbox](https://codesandbox.io/)
