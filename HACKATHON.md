@@ -4,7 +4,7 @@
 
 Chaque équipe devra réaliser un POC d'un projet digital.
 
-Chaque équipe devra réaliser une démonstration de son produit lors de la présentation qui aura lieu le **6 octobre 2023**.
+Chaque équipe devra réaliser une démonstration de son produit lors de la présentation qui aura lieu le **4 octobre 2024**.
 
 Cette présentation durera 20 minutes max par groupe et sera divisée en plusieurs parties:
 
