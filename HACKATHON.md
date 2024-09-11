@@ -16,14 +16,15 @@ Le projet doit aboutir à la conception d'un **prototype fonctionnel**, c'est à
 
 ## Format du produit
 
-Le produit **doit être obligatoirement un produit digital** (et non un service).
+Le produit **doit être obligatoirement un produit digital** de type **applicatif** (non informatif).
 
 ## Les thèmes
 
-Chaque projet doit être un **projet collaboratif à impact sociétal**.
+Chaque projet doit faire partie d'au moins un de ces thèmes:
 
-- **Collaboratif** car les utilsiateurs doivent créer entièrement ou de la valeur. 
-- **Impact sociétal** car il aide la société en général. Exemple: transport, sécurité, vie quotidienne, santé, écologie, éducation, urbanisme, politique...
+- **Collaboratif** car les utilsiateurs doivent créer entièrement ou partiellement de la valeur. 
+- **Impact sociétal** car il aide la société en général. Exemple: transport, sécurité, santé, écologie, éducation, urbanisme, politique...
+- **Vie quotidienne** car il améliore ou facilite le quotidien de ses utilisateurs.
 
 ## Présentation
 
