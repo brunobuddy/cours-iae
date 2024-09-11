@@ -20,11 +20,12 @@ Le produit **doit être obligatoirement un produit digital** de type **applicati
 
 ## Les thèmes
 
-Chaque projet doit faire partie d'au moins un de ces thèmes:
+Chaque produit doit faire partie d'au moins un de ces thèmes:
 
 - **Collaboratif** car les utilsiateurs doivent créer entièrement ou partiellement de la valeur. 
 - **Impact sociétal** car il aide la société en général. Exemple: transport, sécurité, santé, écologie, éducation, urbanisme, politique...
 - **Vie quotidienne** car il améliore ou facilite le quotidien de ses utilisateurs.
+- **Gamification** car il arrive à ses fins en utilisant les codes du jeu (vidéo ou non).
 
 ## Présentation
 
