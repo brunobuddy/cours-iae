@@ -17,7 +17,7 @@ Script
 
 ## Coding
 
-- Live code: [Code Sandbox](https://codesandbox.io/)
+- Live code: [JSBin](https://jsbin.com/) | [Code Sandbox](https://codesandbox.io/)
 - Code editor: [VS Code](https://code.visualstudio.com/)
 
 ## Stack
