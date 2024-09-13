@@ -1,0 +1,27 @@
+@import "https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css";
+
+html {
+    background-image: url("https://analyticsindiamag.com/wp-content/uploads/2019/05/apps.55787.9007199266246365.687a10a8-4c4a-4a47-8ec5-a95f70d8852d.jpg");
+    background-size: cover;
+}
+
+.navbar {
+  background-color: transparent;
+}
+
+.column {
+  border: 2px solid red;
+}
+
+#logo-menu {
+  width: 100px;
+  height: 36px;
+}
+
+.hero {
+  text-align: center;
+}
+
+.input {
+  width: 200px
+}
