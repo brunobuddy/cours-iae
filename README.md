@@ -8,11 +8,9 @@
 
 Script
 ```html
-<script>
  $(".button").on("click", function () {
     alert("bouton clické");
   });
-</script
 ```
 
 ## Coding
